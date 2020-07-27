@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Diary]
 ---
 
->
+> Better late than never but never late is better.
 
 
 
